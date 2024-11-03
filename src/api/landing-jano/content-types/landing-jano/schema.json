@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "landing_janos",
+  "info": {
+    "singularName": "landing-jano",
+    "pluralName": "landing-janos",
+    "displayName": "landing-jano"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}
